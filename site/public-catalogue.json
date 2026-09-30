@@ -1,0 +1,845 @@
+{
+  "version": "public1.mbsc-observations-1.0.0",
+  "records": [
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "slots-h0w0",
+      "sourceSampleId": "slots-h0w0",
+      "idMappingNote": null,
+      "shape": "slots",
+      "perforationLevel": 0,
+      "supportLevel": 0,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.0890838146113398,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / slots-h0w0 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.388883
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "slots-h0w1",
+      "sourceSampleId": "slots-h0w1",
+      "idMappingNote": null,
+      "shape": "slots",
+      "perforationLevel": 0,
+      "supportLevel": 1,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.093794642464464,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / slots-h0w1 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.433435
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "slots-h0w2",
+      "sourceSampleId": "slots-h0w2",
+      "idMappingNote": null,
+      "shape": "slots",
+      "perforationLevel": 0,
+      "supportLevel": 2,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.105833351560381,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / slots-h0w2 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.336368
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "slots-h1w0",
+      "sourceSampleId": "slots-h1w0",
+      "idMappingNote": null,
+      "shape": "slots",
+      "perforationLevel": 1,
+      "supportLevel": 0,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.082187390617373,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / slots-h1w0 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.763843
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "slots-h1w1",
+      "sourceSampleId": "slots-h1w1",
+      "idMappingNote": null,
+      "shape": "slots",
+      "perforationLevel": 1,
+      "supportLevel": 1,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.092551859505231,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / slots-h1w1 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.636948
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "slots-h1w2",
+      "sourceSampleId": "slots-h1w2",
+      "idMappingNote": null,
+      "shape": "slots",
+      "perforationLevel": 1,
+      "supportLevel": 2,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.108847937424176,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / slots-h1w2 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.339608
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "slots-h2w0",
+      "sourceSampleId": "slots-h2w0",
+      "idMappingNote": null,
+      "shape": "slots",
+      "perforationLevel": 2,
+      "supportLevel": 0,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.0679804141547157,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / slots-h2w0 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.28257
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "slots-h2w1",
+      "sourceSampleId": "slots-h2w1",
+      "idMappingNote": null,
+      "shape": "slots",
+      "perforationLevel": 2,
+      "supportLevel": 1,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.080691963426195,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / slots-h2w1 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.653525
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "slots-h2w2",
+      "sourceSampleId": "slots-h2w2",
+      "idMappingNote": null,
+      "shape": "slots",
+      "perforationLevel": 2,
+      "supportLevel": 2,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.103192819673587,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / slots-h2w2 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.45237
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "slots-h3w0",
+      "sourceSampleId": "slots-h3w0",
+      "idMappingNote": null,
+      "shape": "slots",
+      "perforationLevel": 3,
+      "supportLevel": 0,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.06389219995999,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / slots-h3w0 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.26099
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "slots-h3w1",
+      "sourceSampleId": "slots-h3w1",
+      "idMappingNote": null,
+      "shape": "slots",
+      "perforationLevel": 3,
+      "supportLevel": 1,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.086633497768411,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / slots-h3w1 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.431615
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "slots-h3w2",
+      "sourceSampleId": "slots-h3w2",
+      "idMappingNote": null,
+      "shape": "slots",
+      "perforationLevel": 3,
+      "supportLevel": 2,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.09168247818316,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / slots-h3w2 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.456817
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "holes-h0w0",
+      "sourceSampleId": "holes-h0w0",
+      "idMappingNote": null,
+      "shape": "holes",
+      "perforationLevel": 0,
+      "supportLevel": 0,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.06638627563866,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / holes-h0w0 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.46849
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "holes-h0w1",
+      "sourceSampleId": "holes-h0w1",
+      "idMappingNote": null,
+      "shape": "holes",
+      "perforationLevel": 0,
+      "supportLevel": 1,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.080607912319465,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / holes-h0w1 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.448991
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "holes-h0w2",
+      "sourceSampleId": "holes-h0w2",
+      "idMappingNote": null,
+      "shape": "holes",
+      "perforationLevel": 0,
+      "supportLevel": 2,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.091249523847771,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / holes-h0w2 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.318069
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "holes-h1w0",
+      "sourceSampleId": "holes-h1w0",
+      "idMappingNote": null,
+      "shape": "holes",
+      "perforationLevel": 1,
+      "supportLevel": 0,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.075912565203663,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / holes-h1w0 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.18868
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "holes-h1w1",
+      "sourceSampleId": "holes-h1w1",
+      "idMappingNote": null,
+      "shape": "holes",
+      "perforationLevel": 1,
+      "supportLevel": 1,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.08499032236478,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / holes-h1w1 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.533307
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "holes-h1w2",
+      "sourceSampleId": "holes-h1w2",
+      "idMappingNote": null,
+      "shape": "holes",
+      "perforationLevel": 1,
+      "supportLevel": 2,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.098856338144417,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / holes-h1w2 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.476504
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "holes-h2w0",
+      "sourceSampleId": "holes-h2w0",
+      "idMappingNote": null,
+      "shape": "holes",
+      "perforationLevel": 2,
+      "supportLevel": 0,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.064755421855098,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / holes-h2w0 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.534582
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "holes-h2w1",
+      "sourceSampleId": "holes-h2w1",
+      "idMappingNote": null,
+      "shape": "holes",
+      "perforationLevel": 2,
+      "supportLevel": 1,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.07836227723557,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / holes-h2w1 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.661015
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "holes-h2w2",
+      "sourceSampleId": "holes-h2w2",
+      "idMappingNote": null,
+      "shape": "holes",
+      "perforationLevel": 2,
+      "supportLevel": 2,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.09804260320818,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / holes-h2w2 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.411487
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "holes-h3w0",
+      "sourceSampleId": "holes-h3w0",
+      "idMappingNote": null,
+      "shape": "holes",
+      "perforationLevel": 3,
+      "supportLevel": 0,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.062192381716336,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / holes-h3w0 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.385078
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "holes-h3w1",
+      "sourceSampleId": "holes-h3w1",
+      "idMappingNote": null,
+      "shape": "holes",
+      "perforationLevel": 3,
+      "supportLevel": 1,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.070633497768411,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / holes-h3w1 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.410786
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    },
+    {
+      "disclosure": "mbsc-public-1",
+      "id": "holes-h3w2",
+      "sourceSampleId": "holes-h3w2",
+      "idMappingNote": null,
+      "shape": "holes",
+      "perforationLevel": 3,
+      "supportLevel": 2,
+      "nominalDimensionsM": [
+        0.12,
+        0.12,
+        0.04
+      ],
+      "skinDepthM": 0.002,
+      "replicates": 1,
+      "conductivity": {
+        "value": 0.085724877088366,
+        "unit": "W/mK",
+        "status": "source_observation",
+        "basis": "whole_tested_specimen",
+        "source": "Laboratory MBSC catalogue / holes-h3w2 / whole-specimen observations",
+        "temperatureC": 20
+      },
+      "density": {
+        "value": null,
+        "unit": "kg/m3",
+        "status": "unresolved_basis",
+        "reason": "Density remains unresolved because the measurement volume basis is not reconciled."
+      },
+      "compression": {
+        "Sigma10_MPa": 0.414455
+      },
+      "applicability": "Single coupon observation only. No core-property, edited-geometry, full-size board or wall-performance transfer.",
+      "geometryStatus": "Nominal reconstruction; exact fabrication dimensions remain unresolved."
+    }
+  ]
+}

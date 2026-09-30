@@ -1,0 +1,76 @@
+{
+  "format": "mycocompass-release-1",
+  "catalogueVersion": "public1.mbsc-observations-1.0.0",
+  "files": [
+    {
+      "path": ".github/workflows/pages.yml",
+      "bytes": 946,
+      "sha256": "113d4745ebfcbd96d123455b639b9e365d473e0fef2a17d3b47d7f059013308e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3075,
+      "sha256": "8d3fa7ad1d9ff9e5f4260cc866154ff67eb6f0f11b711b185bf61bfc4fe54ed9"
+    },
+    {
+      "path": "scripts/demo-audit-lib.mjs",
+      "bytes": 5536,
+      "sha256": "b44be946eaa53837868e38c026f19d341b994632a0287213ff755bf85ac3e270"
+    },
+    {
+      "path": "scripts/verify-release.mjs",
+      "bytes": 2298,
+      "sha256": "f4e6a81927c697df1a7bd67f0753a64d7507f2419a9dcfa311675d0487cf9bca"
+    },
+    {
+      "path": "site/THIRD_PARTY_NOTICES.txt",
+      "bytes": 9962,
+      "sha256": "e0422f20ecdfc657cfc8a2cc735ab82b62531d9427004be5a1c2085dba547f50"
+    },
+    {
+      "path": "site/assets/LinkedWallScene-BV3Kc34V.js",
+      "bytes": 5950,
+      "sha256": "d3e386bc631d917cd625c5dc281df4ffd97032c41363d5f7a943fe9885a7e8ce"
+    },
+    {
+      "path": "site/assets/MBSCScene-CEn_Uy2N.js",
+      "bytes": 4733,
+      "sha256": "fb74bed351c2de00a13eaf3e7fedc9c4dc32846683b5b2fd7cfb67193743b9a0"
+    },
+    {
+      "path": "site/assets/generation.worker-ChbhlQOr.js",
+      "bytes": 104775,
+      "sha256": "aba962881376b824223581174430e1460f376e42c2d0525ae51199a27600ddb8"
+    },
+    {
+      "path": "site/assets/index-gSNxH8OO.js",
+      "bytes": 546970,
+      "sha256": "c622f8a36411a67c1b1dd21ff397a5e3474486dc6a837122140057f4122954ec"
+    },
+    {
+      "path": "site/assets/index-uI2Q_qzO.css",
+      "bytes": 138924,
+      "sha256": "38234d32a1fd98fae2fe86cff7d709e052aabe49a422c7e438e718aceef1c17e"
+    },
+    {
+      "path": "site/assets/linked-wall-objects-YhDHuHbH.js",
+      "bytes": 588012,
+      "sha256": "812c98a4b906783fb728f478f6647fc6949007b7601ab40d8fffce820efd96b1"
+    },
+    {
+      "path": "site/assets/stock.worker-3mtONAeF.js",
+      "bytes": 95763,
+      "sha256": "4293d28c16da6fab50cf6bb6e236523bc56eebb6a7319335d7bf0fce83f9d609"
+    },
+    {
+      "path": "site/index.html",
+      "bytes": 674,
+      "sha256": "24778d4c898f58e0b5a35624d9eddb678a99f424e6107fbc9d80ecea7c6d2d94"
+    },
+    {
+      "path": "site/public-catalogue.json",
+      "bytes": 27924,
+      "sha256": "7af823aa607e04ba5d23ea5e9246d0d12af66fa969681f92d2fa7e9b51b00cfd"
+    }
+  ]
+}
